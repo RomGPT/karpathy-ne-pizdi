@@ -4,6 +4,16 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/K-Dense-AI/karpathy/pulls)
+[![Scientific Agent Skills](https://img.shields.io/badge/Powered_by-Scientific_Agent_Skills-brightgreen.svg)](https://github.com/K-Dense-AI/scientific-agent-skills)
+[![Agent Skills](https://img.shields.io/badge/Standard-Agent_Skills-blueviolet.svg)](https://agentskills.io/)
+[![Works with](https://img.shields.io/badge/Works_with-Cursor_|_Claude_Code_|_Codex_|_Google_ADK-blue.svg)](#quick-start)
+[![X](https://img.shields.io/badge/Follow_on_X-%40k__dense__ai-000000?logo=x)](https://x.com/k_dense_ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-K--Dense_Inc.-0A66C2?logo=linkedin)](https://www.linkedin.com/company/k-dense-inc)
+[![YouTube](https://img.shields.io/badge/YouTube-K--Dense_Inc.-FF0000?logo=youtube)](https://www.youtube.com/@K-Dense-Inc)
+
+> **Stay up to date:** Follow K-Dense on [X](https://x.com/k_dense_ai), [LinkedIn](https://www.linkedin.com/company/k-dense-inc), and [YouTube](https://www.youtube.com/@K-Dense-Inc) for new skills, release announcements, walkthroughs, research workflow demos, and examples you can use with your own AI agent.
+
+> ⭐ **Help make AI for science easier to discover:** If [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) saves you time, teaches your agent a workflow, or helps your lab move faster, please [star that repository](https://github.com/K-Dense-AI/scientific-agent-skills). A star is a public signal that these open, reusable research skills are worth maintaining: it helps scientists, engineers, and open-source contributors find the project, shows which agent-skill standards are gaining real adoption, and gives us a clear reason to keep expanding the collection for the community.
 
 An agentic Machine Learning Engineer that trains state-of-the-art ML models using the Claude Agent SDK and Google ADK. This is a simple implementation demonstrating the power of Scientific Agent Skills for machine learning.
 
@@ -61,12 +71,6 @@ This automatically:
 7. All outputs will be in the `sandbox` directory so continue to monitor that as you converse with the agent
 
 **Note:** Any files you want the agent to use (datasets, scripts, etc.) should be manually added to the `sandbox` directory.
-
-## Community
-
-Join our K-Dense Slack community to connect with other users, share ideas, and get support:
-
-**[Join K-Dense Slack Community](https://join.slack.com/t/k-densecommunity/shared_invite/zt-3iajtyls1-EwmkwIZk0g_o74311Tkf5g)**
 
 ## Scientific Agent Skills
 
