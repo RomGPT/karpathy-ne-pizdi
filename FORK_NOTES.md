@@ -11,3 +11,8 @@ Quick local notes for this fork.
 ## Next step
 
 Add a short usage section or project summary after confirming the main file layout.
+
+## 2026-08-18 Maintenance Note
+
+- Documentation-only check-in to keep repository activity visible.
+- Next docs pass: verify the setup and status notes still match the current project intent.
